@@ -8,6 +8,7 @@
 
 >[Группа Вконтакте](http://vk.com/laravel_rus)
 
+>[чат](https://gitter.im/LaravelRUS/chat#)
 
 >[G+](https://plus.google.com/communities/101989042587233170707)
 
